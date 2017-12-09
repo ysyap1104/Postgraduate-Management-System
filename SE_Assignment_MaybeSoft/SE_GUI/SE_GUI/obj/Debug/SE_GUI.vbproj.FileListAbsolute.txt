@@ -1,0 +1,254 @@
+C:\Users\Kevin\Documents\Visual Studio 2017\Projects\SE_GUI\SE_GUI\bin\Debug\SE_GUI.exe.config
+C:\Users\Kevin\Documents\Visual Studio 2017\Projects\SE_GUI\SE_GUI\bin\Debug\SE_GUI.exe
+C:\Users\Kevin\Documents\Visual Studio 2017\Projects\SE_GUI\SE_GUI\bin\Debug\SE_GUI.pdb
+C:\Users\Kevin\Documents\Visual Studio 2017\Projects\SE_GUI\SE_GUI\bin\Debug\SE_GUI.xml
+C:\Users\Kevin\Documents\Visual Studio 2017\Projects\SE_GUI\SE_GUI\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Kevin\Documents\Visual Studio 2017\Projects\SE_GUI\SE_GUI\obj\Debug\SE_GUI.vbprojResolveAssemblyReference.cache
+C:\Users\Kevin\Documents\Visual Studio 2017\Projects\SE_GUI\SE_GUI\obj\Debug\SE_GUI.Resources.resources
+C:\Users\Kevin\Documents\Visual Studio 2017\Projects\SE_GUI\SE_GUI\obj\Debug\SE_GUI.vbproj.GenerateResource.Cache
+C:\Users\Kevin\Documents\Visual Studio 2017\Projects\SE_GUI\SE_GUI\obj\Debug\SE_GUI.vbproj.CoreCompileInputs.cache
+C:\Users\Kevin\Documents\Visual Studio 2017\Projects\SE_GUI\SE_GUI\obj\Debug\SE_GUI.exe
+C:\Users\Kevin\Documents\Visual Studio 2017\Projects\SE_GUI\SE_GUI\obj\Debug\SE_GUI.xml
+C:\Users\Kevin\Documents\Visual Studio 2017\Projects\SE_GUI\SE_GUI\obj\Debug\SE_GUI.pdb
+C:\Users\Kevin\Documents\Visual Studio 2017\Projects\SE_GUI\SE_GUI\bin\Debug\MetroFramework.Design.dll
+C:\Users\Kevin\Documents\Visual Studio 2017\Projects\SE_GUI\SE_GUI\bin\Debug\MetroFramework.dll
+C:\Users\Kevin\Documents\Visual Studio 2017\Projects\SE_GUI\SE_GUI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Kevin\Documents\Visual Studio 2017\Projects\SE_GUI\SE_GUI\obj\Debug\SE_GUI.LoginPage.resources
+C:\Users\Kevin\Documents\Visual Studio 2017\Projects\SE_GUI\SE_GUI\obj\Debug\SE_GUI.CourseStudentPage.resources
+C:\Users\Kevin\Documents\Visual Studio 2017\Projects\SE_GUI\SE_GUI\obj\Debug\SE_GUI.ResearchStudentPage.resources
+C:\Users\Kevin\Documents\Visual Studio 2017\Projects\SE_GUI\SE_GUI\obj\Debug\SE_GUI.AcademicPage.resources
+C:\Users\Kevin\Documents\Visual Studio 2017\Projects\SE_GUI\SE_GUI\obj\Debug\SE_GUI.AdminPage.resources
+C:\Users\user 1\Desktop\SE\SE_GUI v2.0\SE_GUI\SE_GUI\bin\Debug\SE_GUI.exe.config
+C:\Users\user 1\Desktop\SE\SE_GUI v2.0\SE_GUI\SE_GUI\bin\Debug\SE_GUI.exe
+C:\Users\user 1\Desktop\SE\SE_GUI v2.0\SE_GUI\SE_GUI\bin\Debug\SE_GUI.pdb
+C:\Users\user 1\Desktop\SE\SE_GUI v2.0\SE_GUI\SE_GUI\bin\Debug\SE_GUI.xml
+C:\Users\user 1\Desktop\SE\SE_GUI v2.0\SE_GUI\SE_GUI\bin\Debug\MetroFramework.Design.dll
+C:\Users\user 1\Desktop\SE\SE_GUI v2.0\SE_GUI\SE_GUI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\user 1\Desktop\SE\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.vbprojResolveAssemblyReference.cache
+C:\Users\user 1\Desktop\SE\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.AcademicPage.resources
+C:\Users\user 1\Desktop\SE\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.AdminPage.resources
+C:\Users\user 1\Desktop\SE\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.LoginPage.resources
+C:\Users\user 1\Desktop\SE\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.Resources.resources
+C:\Users\user 1\Desktop\SE\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.CourseStudentPage.resources
+C:\Users\user 1\Desktop\SE\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.ResearchStudentPage.resources
+C:\Users\user 1\Desktop\SE\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.vbproj.GenerateResource.Cache
+C:\Users\user 1\Desktop\SE\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.exe
+C:\Users\user 1\Desktop\SE\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.xml
+C:\Users\user 1\Desktop\SE\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.pdb
+C:\Users\user 1\Desktop\SE\SE_GUI v2.0\SE_GUI\SE_GUI\bin\Debug\MySql.Data.dll
+C:\Users\user 1\Desktop\SE\SE_GUI v2.0\SE_GUI\SE_GUI\bin\Debug\MySql.Data.xml
+C:\Users\Yap\Desktop\SE assignment\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\bin\Debug\SE_GUI.exe.config
+C:\Users\Yap\Desktop\SE assignment\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\bin\Debug\SE_GUI.exe
+C:\Users\Yap\Desktop\SE assignment\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\bin\Debug\SE_GUI.pdb
+C:\Users\Yap\Desktop\SE assignment\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\bin\Debug\SE_GUI.xml
+C:\Users\Yap\Desktop\SE assignment\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\bin\Debug\MetroFramework.Design.dll
+C:\Users\Yap\Desktop\SE assignment\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Yap\Desktop\SE assignment\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\bin\Debug\MySql.Data.dll
+C:\Users\Yap\Desktop\SE assignment\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\bin\Debug\MySql.Data.xml
+C:\Users\Yap\Desktop\SE assignment\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.vbprojResolveAssemblyReference.cache
+C:\Users\Yap\Desktop\SE assignment\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.AcademicPage.resources
+C:\Users\Yap\Desktop\SE assignment\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.AdminPage.resources
+C:\Users\Yap\Desktop\SE assignment\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.LoginPage.resources
+C:\Users\Yap\Desktop\SE assignment\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.Resources.resources
+C:\Users\Yap\Desktop\SE assignment\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.CourseStudentPage.resources
+C:\Users\Yap\Desktop\SE assignment\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.ResearchStudentPage.resources
+C:\Users\Yap\Desktop\SE assignment\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.vbproj.GenerateResource.Cache
+C:\Users\Yap\Desktop\SE assignment\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.vbproj.CoreCompileInputs.cache
+C:\Users\Yap\Desktop\SE assignment\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.exe
+C:\Users\Yap\Desktop\SE assignment\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.xml
+C:\Users\Yap\Desktop\SE assignment\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.pdb
+C:\Users\user 1\AppData\Roaming\Skype\My Skype Received Files\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\bin\Debug\SE_GUI.exe.config
+C:\Users\user 1\AppData\Roaming\Skype\My Skype Received Files\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\bin\Debug\SE_GUI.exe
+C:\Users\user 1\AppData\Roaming\Skype\My Skype Received Files\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\bin\Debug\SE_GUI.pdb
+C:\Users\user 1\AppData\Roaming\Skype\My Skype Received Files\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\bin\Debug\SE_GUI.xml
+C:\Users\user 1\AppData\Roaming\Skype\My Skype Received Files\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\bin\Debug\MetroFramework.Design.dll
+C:\Users\user 1\AppData\Roaming\Skype\My Skype Received Files\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\user 1\AppData\Roaming\Skype\My Skype Received Files\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\bin\Debug\MySql.Data.dll
+C:\Users\user 1\AppData\Roaming\Skype\My Skype Received Files\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\bin\Debug\MySql.Data.xml
+C:\Users\user 1\AppData\Roaming\Skype\My Skype Received Files\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.vbprojResolveAssemblyReference.cache
+C:\Users\user 1\AppData\Roaming\Skype\My Skype Received Files\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.AcademicPage.resources
+C:\Users\user 1\AppData\Roaming\Skype\My Skype Received Files\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.AdminPage.resources
+C:\Users\user 1\AppData\Roaming\Skype\My Skype Received Files\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.LoginPage.resources
+C:\Users\user 1\AppData\Roaming\Skype\My Skype Received Files\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.Resources.resources
+C:\Users\user 1\AppData\Roaming\Skype\My Skype Received Files\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.CourseStudentPage.resources
+C:\Users\user 1\AppData\Roaming\Skype\My Skype Received Files\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.ResearchStudentPage.resources
+C:\Users\user 1\AppData\Roaming\Skype\My Skype Received Files\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.vbproj.GenerateResource.Cache
+C:\Users\user 1\AppData\Roaming\Skype\My Skype Received Files\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.exe
+C:\Users\user 1\AppData\Roaming\Skype\My Skype Received Files\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.xml
+C:\Users\user 1\AppData\Roaming\Skype\My Skype Received Files\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.pdb
+C:\Users\Yap\Desktop\SUPERLATEST\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\bin\Debug\SE_GUI.exe.config
+C:\Users\Yap\Desktop\SUPERLATEST\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\bin\Debug\SE_GUI.exe
+C:\Users\Yap\Desktop\SUPERLATEST\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\bin\Debug\SE_GUI.pdb
+C:\Users\Yap\Desktop\SUPERLATEST\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\bin\Debug\SE_GUI.xml
+C:\Users\Yap\Desktop\SUPERLATEST\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\bin\Debug\MetroFramework.Design.dll
+C:\Users\Yap\Desktop\SUPERLATEST\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Yap\Desktop\SUPERLATEST\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\bin\Debug\MySql.Data.dll
+C:\Users\Yap\Desktop\SUPERLATEST\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\bin\Debug\MySql.Data.xml
+C:\Users\Yap\Desktop\SUPERLATEST\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.vbprojResolveAssemblyReference.cache
+C:\Users\Yap\Desktop\SUPERLATEST\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.AcademicPage.resources
+C:\Users\Yap\Desktop\SUPERLATEST\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.AdminPage.resources
+C:\Users\Yap\Desktop\SUPERLATEST\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.LoginPage.resources
+C:\Users\Yap\Desktop\SUPERLATEST\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.Resources.resources
+C:\Users\Yap\Desktop\SUPERLATEST\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.CourseStudentPage.resources
+C:\Users\Yap\Desktop\SUPERLATEST\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.ResearchStudentPage.resources
+C:\Users\Yap\Desktop\SUPERLATEST\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.vbproj.GenerateResource.Cache
+C:\Users\Yap\Desktop\SUPERLATEST\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.vbproj.CoreCompileInputs.cache
+C:\Users\Yap\Desktop\SUPERLATEST\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.exe
+C:\Users\Yap\Desktop\SUPERLATEST\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.xml
+C:\Users\Yap\Desktop\SUPERLATEST\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.pdb
+C:\Users\Yap\Desktop\jeff7 9 17\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\bin\Debug\SE_GUI.exe.config
+C:\Users\Yap\Desktop\jeff7 9 17\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\bin\Debug\SE_GUI.exe
+C:\Users\Yap\Desktop\jeff7 9 17\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\bin\Debug\SE_GUI.pdb
+C:\Users\Yap\Desktop\jeff7 9 17\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\bin\Debug\SE_GUI.xml
+C:\Users\Yap\Desktop\jeff7 9 17\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\bin\Debug\MetroFramework.Design.dll
+C:\Users\Yap\Desktop\jeff7 9 17\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Yap\Desktop\jeff7 9 17\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\bin\Debug\MySql.Data.dll
+C:\Users\Yap\Desktop\jeff7 9 17\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\bin\Debug\MySql.Data.xml
+C:\Users\Yap\Desktop\jeff7 9 17\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.vbprojResolveAssemblyReference.cache
+C:\Users\Yap\Desktop\jeff7 9 17\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.AcademicPage.resources
+C:\Users\Yap\Desktop\jeff7 9 17\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.AdminPage.resources
+C:\Users\Yap\Desktop\jeff7 9 17\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.LoginPage.resources
+C:\Users\Yap\Desktop\jeff7 9 17\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.Resources.resources
+C:\Users\Yap\Desktop\jeff7 9 17\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.CourseStudentPage.resources
+C:\Users\Yap\Desktop\jeff7 9 17\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.ResearchStudentPage.resources
+C:\Users\Yap\Desktop\jeff7 9 17\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.vbproj.GenerateResource.Cache
+C:\Users\Yap\Desktop\jeff7 9 17\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.vbproj.CoreCompileInputs.cache
+C:\Users\Yap\Desktop\jeff7 9 17\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.exe
+C:\Users\Yap\Desktop\jeff7 9 17\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.xml
+C:\Users\Yap\Desktop\jeff7 9 17\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.pdb
+C:\Users\user 1\AppData\Roaming\Skype\My Skype Received Files\jeff7 9 17(1)\jeff7 9 17\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\bin\Debug\SE_GUI.exe.config
+C:\Users\user 1\AppData\Roaming\Skype\My Skype Received Files\jeff7 9 17(1)\jeff7 9 17\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\bin\Debug\SE_GUI.exe
+C:\Users\user 1\AppData\Roaming\Skype\My Skype Received Files\jeff7 9 17(1)\jeff7 9 17\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\bin\Debug\SE_GUI.pdb
+C:\Users\user 1\AppData\Roaming\Skype\My Skype Received Files\jeff7 9 17(1)\jeff7 9 17\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\bin\Debug\SE_GUI.xml
+C:\Users\user 1\AppData\Roaming\Skype\My Skype Received Files\jeff7 9 17(1)\jeff7 9 17\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\bin\Debug\MetroFramework.Design.dll
+C:\Users\user 1\AppData\Roaming\Skype\My Skype Received Files\jeff7 9 17(1)\jeff7 9 17\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\user 1\AppData\Roaming\Skype\My Skype Received Files\jeff7 9 17(1)\jeff7 9 17\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\bin\Debug\MySql.Data.dll
+C:\Users\user 1\AppData\Roaming\Skype\My Skype Received Files\jeff7 9 17(1)\jeff7 9 17\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\bin\Debug\MySql.Data.xml
+C:\Users\user 1\AppData\Roaming\Skype\My Skype Received Files\jeff7 9 17(1)\jeff7 9 17\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.vbprojResolveAssemblyReference.cache
+C:\Users\user 1\AppData\Roaming\Skype\My Skype Received Files\jeff7 9 17(1)\jeff7 9 17\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.AcademicPage.resources
+C:\Users\user 1\AppData\Roaming\Skype\My Skype Received Files\jeff7 9 17(1)\jeff7 9 17\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.AdminPage.resources
+C:\Users\user 1\AppData\Roaming\Skype\My Skype Received Files\jeff7 9 17(1)\jeff7 9 17\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.LoginPage.resources
+C:\Users\user 1\AppData\Roaming\Skype\My Skype Received Files\jeff7 9 17(1)\jeff7 9 17\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.Resources.resources
+C:\Users\user 1\AppData\Roaming\Skype\My Skype Received Files\jeff7 9 17(1)\jeff7 9 17\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.CourseStudentPage.resources
+C:\Users\user 1\AppData\Roaming\Skype\My Skype Received Files\jeff7 9 17(1)\jeff7 9 17\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.ResearchStudentPage.resources
+C:\Users\user 1\AppData\Roaming\Skype\My Skype Received Files\jeff7 9 17(1)\jeff7 9 17\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.vbproj.GenerateResource.Cache
+C:\Users\user 1\AppData\Roaming\Skype\My Skype Received Files\jeff7 9 17(1)\jeff7 9 17\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.exe
+C:\Users\user 1\AppData\Roaming\Skype\My Skype Received Files\jeff7 9 17(1)\jeff7 9 17\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.xml
+C:\Users\user 1\AppData\Roaming\Skype\My Skype Received Files\jeff7 9 17(1)\jeff7 9 17\ys7 9 17\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.pdb
+C:\Users\Yap\Desktop\2 pm assignment\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\bin\Debug\SE_GUI.exe.config
+C:\Users\Yap\Desktop\2 pm assignment\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\bin\Debug\SE_GUI.exe
+C:\Users\Yap\Desktop\2 pm assignment\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\bin\Debug\SE_GUI.pdb
+C:\Users\Yap\Desktop\2 pm assignment\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\bin\Debug\SE_GUI.xml
+C:\Users\Yap\Desktop\2 pm assignment\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\bin\Debug\MetroFramework.Design.dll
+C:\Users\Yap\Desktop\2 pm assignment\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Yap\Desktop\2 pm assignment\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\bin\Debug\MySql.Data.dll
+C:\Users\Yap\Desktop\2 pm assignment\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\bin\Debug\MySql.Data.xml
+C:\Users\Yap\Desktop\2 pm assignment\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.vbprojResolveAssemblyReference.cache
+C:\Users\Yap\Desktop\2 pm assignment\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.AcademicPage.resources
+C:\Users\Yap\Desktop\2 pm assignment\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.AdminPage.resources
+C:\Users\Yap\Desktop\2 pm assignment\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.LoginPage.resources
+C:\Users\Yap\Desktop\2 pm assignment\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.Resources.resources
+C:\Users\Yap\Desktop\2 pm assignment\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.CourseStudentPage.resources
+C:\Users\Yap\Desktop\2 pm assignment\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.ResearchStudentPage.resources
+C:\Users\Yap\Desktop\2 pm assignment\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.vbproj.GenerateResource.Cache
+C:\Users\Yap\Desktop\2 pm assignment\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.vbproj.CoreCompileInputs.cache
+C:\Users\Yap\Desktop\2 pm assignment\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.exe
+C:\Users\Yap\Desktop\2 pm assignment\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.xml
+C:\Users\Yap\Desktop\2 pm assignment\LASTEST\SE_GUI v2.0\SE_GUI\SE_GUI\obj\Debug\SE_GUI.pdb
+C:\Users\Yap\Desktop\FINAL PROTO\Prototype\SE_GUI\SE_GUI\bin\Debug\SE_GUI.exe.config
+C:\Users\Yap\Desktop\FINAL PROTO\Prototype\SE_GUI\SE_GUI\bin\Debug\SE_GUI.exe
+C:\Users\Yap\Desktop\FINAL PROTO\Prototype\SE_GUI\SE_GUI\bin\Debug\SE_GUI.pdb
+C:\Users\Yap\Desktop\FINAL PROTO\Prototype\SE_GUI\SE_GUI\bin\Debug\SE_GUI.xml
+C:\Users\Yap\Desktop\FINAL PROTO\Prototype\SE_GUI\SE_GUI\bin\Debug\MetroFramework.Design.dll
+C:\Users\Yap\Desktop\FINAL PROTO\Prototype\SE_GUI\SE_GUI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Yap\Desktop\FINAL PROTO\Prototype\SE_GUI\SE_GUI\bin\Debug\MySql.Data.dll
+C:\Users\Yap\Desktop\FINAL PROTO\Prototype\SE_GUI\SE_GUI\bin\Debug\MySql.Data.xml
+C:\Users\Yap\Desktop\FINAL PROTO\Prototype\SE_GUI\SE_GUI\obj\Debug\SE_GUI.vbprojResolveAssemblyReference.cache
+C:\Users\Yap\Desktop\FINAL PROTO\Prototype\SE_GUI\SE_GUI\obj\Debug\SE_GUI.AcademicPage.resources
+C:\Users\Yap\Desktop\FINAL PROTO\Prototype\SE_GUI\SE_GUI\obj\Debug\SE_GUI.AdminPage.resources
+C:\Users\Yap\Desktop\FINAL PROTO\Prototype\SE_GUI\SE_GUI\obj\Debug\SE_GUI.LoginPage.resources
+C:\Users\Yap\Desktop\FINAL PROTO\Prototype\SE_GUI\SE_GUI\obj\Debug\SE_GUI.Resources.resources
+C:\Users\Yap\Desktop\FINAL PROTO\Prototype\SE_GUI\SE_GUI\obj\Debug\SE_GUI.CourseStudentPage.resources
+C:\Users\Yap\Desktop\FINAL PROTO\Prototype\SE_GUI\SE_GUI\obj\Debug\SE_GUI.ResearchStudentPage.resources
+C:\Users\Yap\Desktop\FINAL PROTO\Prototype\SE_GUI\SE_GUI\obj\Debug\SE_GUI.vbproj.GenerateResource.Cache
+C:\Users\Yap\Desktop\FINAL PROTO\Prototype\SE_GUI\SE_GUI\obj\Debug\SE_GUI.vbproj.CoreCompileInputs.cache
+C:\Users\Yap\Desktop\FINAL PROTO\Prototype\SE_GUI\SE_GUI\obj\Debug\SE_GUI.exe
+C:\Users\Yap\Desktop\FINAL PROTO\Prototype\SE_GUI\SE_GUI\obj\Debug\SE_GUI.xml
+C:\Users\Yap\Desktop\FINAL PROTO\Prototype\SE_GUI\SE_GUI\obj\Debug\SE_GUI.pdb
+C:\Users\user 1\Desktop\SE\Friday Presentation\FINAL PROTO\FINAL PROTO\Prototype\SE_GUI\SE_GUI\bin\Debug\SE_GUI.exe.config
+C:\Users\user 1\Desktop\SE\Friday Presentation\FINAL PROTO\FINAL PROTO\Prototype\SE_GUI\SE_GUI\bin\Debug\SE_GUI.exe
+C:\Users\user 1\Desktop\SE\Friday Presentation\FINAL PROTO\FINAL PROTO\Prototype\SE_GUI\SE_GUI\bin\Debug\SE_GUI.pdb
+C:\Users\user 1\Desktop\SE\Friday Presentation\FINAL PROTO\FINAL PROTO\Prototype\SE_GUI\SE_GUI\bin\Debug\SE_GUI.xml
+C:\Users\user 1\Desktop\SE\Friday Presentation\FINAL PROTO\FINAL PROTO\Prototype\SE_GUI\SE_GUI\bin\Debug\MetroFramework.Design.dll
+C:\Users\user 1\Desktop\SE\Friday Presentation\FINAL PROTO\FINAL PROTO\Prototype\SE_GUI\SE_GUI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\user 1\Desktop\SE\Friday Presentation\FINAL PROTO\FINAL PROTO\Prototype\SE_GUI\SE_GUI\bin\Debug\MySql.Data.dll
+C:\Users\user 1\Desktop\SE\Friday Presentation\FINAL PROTO\FINAL PROTO\Prototype\SE_GUI\SE_GUI\bin\Debug\MySql.Data.xml
+C:\Users\user 1\Desktop\SE\Friday Presentation\FINAL PROTO\FINAL PROTO\Prototype\SE_GUI\SE_GUI\obj\Debug\SE_GUI.vbprojResolveAssemblyReference.cache
+C:\Users\user 1\Desktop\SE\Friday Presentation\FINAL PROTO\FINAL PROTO\Prototype\SE_GUI\SE_GUI\obj\Debug\SE_GUI.AcademicPage.resources
+C:\Users\user 1\Desktop\SE\Friday Presentation\FINAL PROTO\FINAL PROTO\Prototype\SE_GUI\SE_GUI\obj\Debug\SE_GUI.AdminPage.resources
+C:\Users\user 1\Desktop\SE\Friday Presentation\FINAL PROTO\FINAL PROTO\Prototype\SE_GUI\SE_GUI\obj\Debug\SE_GUI.LoginPage.resources
+C:\Users\user 1\Desktop\SE\Friday Presentation\FINAL PROTO\FINAL PROTO\Prototype\SE_GUI\SE_GUI\obj\Debug\SE_GUI.Resources.resources
+C:\Users\user 1\Desktop\SE\Friday Presentation\FINAL PROTO\FINAL PROTO\Prototype\SE_GUI\SE_GUI\obj\Debug\SE_GUI.CourseStudentPage.resources
+C:\Users\user 1\Desktop\SE\Friday Presentation\FINAL PROTO\FINAL PROTO\Prototype\SE_GUI\SE_GUI\obj\Debug\SE_GUI.ResearchStudentPage.resources
+C:\Users\user 1\Desktop\SE\Friday Presentation\FINAL PROTO\FINAL PROTO\Prototype\SE_GUI\SE_GUI\obj\Debug\SE_GUI.vbproj.GenerateResource.Cache
+C:\Users\user 1\Desktop\SE\Friday Presentation\FINAL PROTO\FINAL PROTO\Prototype\SE_GUI\SE_GUI\obj\Debug\SE_GUI.exe
+C:\Users\user 1\Desktop\SE\Friday Presentation\FINAL PROTO\FINAL PROTO\Prototype\SE_GUI\SE_GUI\obj\Debug\SE_GUI.xml
+C:\Users\user 1\Desktop\SE\Friday Presentation\FINAL PROTO\FINAL PROTO\Prototype\SE_GUI\SE_GUI\obj\Debug\SE_GUI.pdb
+C:\Users\user 1\Desktop\SE\Friday Presentation\FINAL PROTO\FINAL PROTO\Latest demo\SE_GUI\SE_GUI\bin\Debug\SE_GUI.exe.config
+C:\Users\user 1\Desktop\SE\Friday Presentation\FINAL PROTO\FINAL PROTO\Latest demo\SE_GUI\SE_GUI\bin\Debug\SE_GUI.exe
+C:\Users\user 1\Desktop\SE\Friday Presentation\FINAL PROTO\FINAL PROTO\Latest demo\SE_GUI\SE_GUI\bin\Debug\SE_GUI.pdb
+C:\Users\user 1\Desktop\SE\Friday Presentation\FINAL PROTO\FINAL PROTO\Latest demo\SE_GUI\SE_GUI\bin\Debug\SE_GUI.xml
+C:\Users\user 1\Desktop\SE\Friday Presentation\FINAL PROTO\FINAL PROTO\Latest demo\SE_GUI\SE_GUI\bin\Debug\MetroFramework.Design.dll
+C:\Users\user 1\Desktop\SE\Friday Presentation\FINAL PROTO\FINAL PROTO\Latest demo\SE_GUI\SE_GUI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\user 1\Desktop\SE\Friday Presentation\FINAL PROTO\FINAL PROTO\Latest demo\SE_GUI\SE_GUI\bin\Debug\MySql.Data.dll
+C:\Users\user 1\Desktop\SE\Friday Presentation\FINAL PROTO\FINAL PROTO\Latest demo\SE_GUI\SE_GUI\bin\Debug\MySql.Data.xml
+C:\Users\user 1\Desktop\SE\Friday Presentation\FINAL PROTO\FINAL PROTO\Latest demo\SE_GUI\SE_GUI\obj\Debug\SE_GUI.vbprojResolveAssemblyReference.cache
+C:\Users\user 1\Desktop\SE\Friday Presentation\FINAL PROTO\FINAL PROTO\Latest demo\SE_GUI\SE_GUI\obj\Debug\SE_GUI.AcademicPage.resources
+C:\Users\user 1\Desktop\SE\Friday Presentation\FINAL PROTO\FINAL PROTO\Latest demo\SE_GUI\SE_GUI\obj\Debug\SE_GUI.AdminPage.resources
+C:\Users\user 1\Desktop\SE\Friday Presentation\FINAL PROTO\FINAL PROTO\Latest demo\SE_GUI\SE_GUI\obj\Debug\SE_GUI.LoginPage.resources
+C:\Users\user 1\Desktop\SE\Friday Presentation\FINAL PROTO\FINAL PROTO\Latest demo\SE_GUI\SE_GUI\obj\Debug\SE_GUI.Resources.resources
+C:\Users\user 1\Desktop\SE\Friday Presentation\FINAL PROTO\FINAL PROTO\Latest demo\SE_GUI\SE_GUI\obj\Debug\SE_GUI.CourseStudentPage.resources
+C:\Users\user 1\Desktop\SE\Friday Presentation\FINAL PROTO\FINAL PROTO\Latest demo\SE_GUI\SE_GUI\obj\Debug\SE_GUI.ResearchStudentPage.resources
+C:\Users\user 1\Desktop\SE\Friday Presentation\FINAL PROTO\FINAL PROTO\Latest demo\SE_GUI\SE_GUI\obj\Debug\SE_GUI.vbproj.GenerateResource.Cache
+C:\Users\user 1\Desktop\SE\Friday Presentation\FINAL PROTO\FINAL PROTO\Latest demo\SE_GUI\SE_GUI\obj\Debug\SE_GUI.exe
+C:\Users\user 1\Desktop\SE\Friday Presentation\FINAL PROTO\FINAL PROTO\Latest demo\SE_GUI\SE_GUI\obj\Debug\SE_GUI.xml
+C:\Users\user 1\Desktop\SE\Friday Presentation\FINAL PROTO\FINAL PROTO\Latest demo\SE_GUI\SE_GUI\obj\Debug\SE_GUI.pdb
+C:\Users\Yap\Desktop\SE 10.08\SE_GUI\SE_GUI\bin\Debug\SE_GUI.exe.config
+C:\Users\Yap\Desktop\SE 10.08\SE_GUI\SE_GUI\bin\Debug\SE_GUI.exe
+C:\Users\Yap\Desktop\SE 10.08\SE_GUI\SE_GUI\bin\Debug\SE_GUI.pdb
+C:\Users\Yap\Desktop\SE 10.08\SE_GUI\SE_GUI\bin\Debug\SE_GUI.xml
+C:\Users\Yap\Desktop\SE 10.08\SE_GUI\SE_GUI\bin\Debug\MetroFramework.Design.dll
+C:\Users\Yap\Desktop\SE 10.08\SE_GUI\SE_GUI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Yap\Desktop\SE 10.08\SE_GUI\SE_GUI\bin\Debug\MySql.Data.dll
+C:\Users\Yap\Desktop\SE 10.08\SE_GUI\SE_GUI\bin\Debug\MySql.Data.xml
+C:\Users\Yap\Desktop\SE 10.08\SE_GUI\SE_GUI\obj\Debug\SE_GUI.vbprojResolveAssemblyReference.cache
+C:\Users\Yap\Desktop\SE 10.08\SE_GUI\SE_GUI\obj\Debug\SE_GUI.AcademicPage.resources
+C:\Users\Yap\Desktop\SE 10.08\SE_GUI\SE_GUI\obj\Debug\SE_GUI.AdminPage.resources
+C:\Users\Yap\Desktop\SE 10.08\SE_GUI\SE_GUI\obj\Debug\SE_GUI.LoginPage.resources
+C:\Users\Yap\Desktop\SE 10.08\SE_GUI\SE_GUI\obj\Debug\SE_GUI.Resources.resources
+C:\Users\Yap\Desktop\SE 10.08\SE_GUI\SE_GUI\obj\Debug\SE_GUI.CourseStudentPage.resources
+C:\Users\Yap\Desktop\SE 10.08\SE_GUI\SE_GUI\obj\Debug\SE_GUI.ResearchStudentPage.resources
+C:\Users\Yap\Desktop\SE 10.08\SE_GUI\SE_GUI\obj\Debug\SE_GUI.vbproj.GenerateResource.Cache
+C:\Users\Yap\Desktop\SE 10.08\SE_GUI\SE_GUI\obj\Debug\SE_GUI.vbproj.CoreCompileInputs.cache
+C:\Users\Yap\Desktop\SE 10.08\SE_GUI\SE_GUI\obj\Debug\SE_GUI.exe
+C:\Users\Yap\Desktop\SE 10.08\SE_GUI\SE_GUI\obj\Debug\SE_GUI.xml
+C:\Users\Yap\Desktop\SE 10.08\SE_GUI\SE_GUI\obj\Debug\SE_GUI.pdb
+C:\Users\user 1\Desktop\SE\SE 10.08\SE_GUI\SE_GUI\bin\Debug\SE_GUI.exe.config
+C:\Users\user 1\Desktop\SE\SE 10.08\SE_GUI\SE_GUI\bin\Debug\SE_GUI.exe
+C:\Users\user 1\Desktop\SE\SE 10.08\SE_GUI\SE_GUI\bin\Debug\SE_GUI.pdb
+C:\Users\user 1\Desktop\SE\SE 10.08\SE_GUI\SE_GUI\bin\Debug\SE_GUI.xml
+C:\Users\user 1\Desktop\SE\SE 10.08\SE_GUI\SE_GUI\bin\Debug\MetroFramework.Design.dll
+C:\Users\user 1\Desktop\SE\SE 10.08\SE_GUI\SE_GUI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\user 1\Desktop\SE\SE 10.08\SE_GUI\SE_GUI\bin\Debug\MySql.Data.dll
+C:\Users\user 1\Desktop\SE\SE 10.08\SE_GUI\SE_GUI\bin\Debug\MySql.Data.xml
+C:\Users\user 1\Desktop\SE\SE 10.08\SE_GUI\SE_GUI\obj\Debug\SE_GUI.vbprojResolveAssemblyReference.cache
+C:\Users\user 1\Desktop\SE\SE 10.08\SE_GUI\SE_GUI\obj\Debug\SE_GUI.AcademicPage.resources
+C:\Users\user 1\Desktop\SE\SE 10.08\SE_GUI\SE_GUI\obj\Debug\SE_GUI.AdminPage.resources
+C:\Users\user 1\Desktop\SE\SE 10.08\SE_GUI\SE_GUI\obj\Debug\SE_GUI.LoginPage.resources
+C:\Users\user 1\Desktop\SE\SE 10.08\SE_GUI\SE_GUI\obj\Debug\SE_GUI.Resources.resources
+C:\Users\user 1\Desktop\SE\SE 10.08\SE_GUI\SE_GUI\obj\Debug\SE_GUI.CourseStudentPage.resources
+C:\Users\user 1\Desktop\SE\SE 10.08\SE_GUI\SE_GUI\obj\Debug\SE_GUI.ResearchStudentPage.resources
+C:\Users\user 1\Desktop\SE\SE 10.08\SE_GUI\SE_GUI\obj\Debug\SE_GUI.vbproj.GenerateResource.Cache
+C:\Users\user 1\Desktop\SE\SE 10.08\SE_GUI\SE_GUI\obj\Debug\SE_GUI.exe
+C:\Users\user 1\Desktop\SE\SE 10.08\SE_GUI\SE_GUI\obj\Debug\SE_GUI.xml
+C:\Users\user 1\Desktop\SE\SE 10.08\SE_GUI\SE_GUI\obj\Debug\SE_GUI.pdb
